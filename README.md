@@ -14,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
+## Array
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Math
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Stack
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
