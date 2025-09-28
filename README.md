@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0830-largest-triangle-area](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0907-koko-eating-bananas](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [2023-design-movie-rental-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0907-koko-eating-bananas](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [3827-implement-router](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Queue
 |  |
