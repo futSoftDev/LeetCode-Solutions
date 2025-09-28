@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0205-isomorphic-strings](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [1078-remove-outermost-parentheses](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
