@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0468-validate-ip-address](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0468-validate-ip-address) |
 | [1078-remove-outermost-parentheses](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1612-avoid-flood-in-the-city](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2117-find-original-array-from-doubled-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 ## Quickselect
 |  |
@@ -249,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
