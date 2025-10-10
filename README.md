@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Depth-First Search
