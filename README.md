@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1612-avoid-flood-in-the-city](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -183,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2117-find-original-array-from-doubled-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
@@ -191,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,5 +278,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
