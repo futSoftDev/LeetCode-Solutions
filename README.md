@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0830-largest-triangle-area](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [2032-largest-odd-number-in-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
