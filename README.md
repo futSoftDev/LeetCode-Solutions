@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0410-split-array-largest-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2429-design-a-food-rating-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3827-implement-router) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3797-design-spreadsheet](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Math
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3827-implement-router](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3827-implement-router) |
 ## Queue
 |  |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -198,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2117-find-original-array-from-doubled-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Quickselect
 |  |
 | ------- |
@@ -217,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
 | ------- |
