@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2032-largest-odd-number-in-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0410-split-array-largest-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2023-design-movie-rental-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2117-find-original-array-from-doubled-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2169-simple-bank-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 ## Tree
