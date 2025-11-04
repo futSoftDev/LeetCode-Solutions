@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0830-largest-triangle-area](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [2032-largest-odd-number-in-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
