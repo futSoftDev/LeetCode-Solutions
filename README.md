@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Array
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3678-design-task-manager](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [3863-power-grid-maintenance](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
 | ------- |
@@ -349,11 +354,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -376,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
