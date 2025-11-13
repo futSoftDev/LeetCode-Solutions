@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
