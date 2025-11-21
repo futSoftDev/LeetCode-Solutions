@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1248-count-number-of-nice-subarrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+| [1248-count-number-of-nice-subarrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Greedy
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Depth-First Search
 |  |
