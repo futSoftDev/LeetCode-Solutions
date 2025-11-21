@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [2023-design-movie-rental-system](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0830-largest-triangle-area](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1612-avoid-flood-in-the-city](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Depth-First Search
