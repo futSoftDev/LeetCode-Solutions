@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/futSoftDev/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
